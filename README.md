@@ -10,3 +10,5 @@ This project is an invitation card created using HTML and CSS to practice CSS ps
 - CSS pseudo-classes (`:hover`, `:focus`, `:active`)
 - CSS pseudo-elements (`::before`, `::after`)
 - Styling an invitation card using HTML and CSS
+
+<img width="732" height="795" alt="image" src="https://github.com/user-attachments/assets/946751c9-2fc2-43a8-8fd8-69a1c5715a2c" />
