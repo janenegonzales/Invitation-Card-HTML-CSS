@@ -1,7 +1,5 @@
 # Invitation-Card-HTML-CSS
 
-# HTML & CSS Invitation Card
-
 This project is an invitation card created using HTML and CSS to practice CSS pseudo-classes and pseudo-elements.
 
 ## Technologies Used
